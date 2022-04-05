@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=7f889c&height=300&section=header&text=ssori's%20repo&desc=solhee-hwang&descSize=20&descAlign=65&fontSize=80&fontColor=F7F7F7&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=7f889c&height=200&section=header&text=ssori's%20repo&desc=solhee-hwang&descSize=17&descAlign=65&descAlignY=55&fontSize=70&fontColor=F7F7F7&fontAlignY=35)
 
 <h3>🎖My rate<h3>
   <hr>
@@ -26,4 +26,4 @@
 </div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7f889c&height=150&section=footer)
