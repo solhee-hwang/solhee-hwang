@@ -1,4 +1,13 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solhee-hwang&show_icons=true&theme=nord)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=7f889c&height=300&section=header&text=ssori's%20repo&desc=solhee-hwang&descSize=20&descAlign=65&fontSize=80&fontColor=F7F7F7&fontAlignY=45)
+
+<h3>🎖My rate<h3>
+  <hr>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=solhee)](https://solved.ac/solhee)
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solhee-hwang&layout=compact)](https://github.com/solhee-hwang/github-readme-stats)
+
 <div align = "center" >
   <h3>💪Skills</h3>
   <hr>
@@ -15,3 +24,6 @@
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&log#FF6F00=white"/>
 </div>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
